@@ -26,6 +26,12 @@
 - Bio: Student who loves to code and solve puzzles
 - Programming Language: C++, Java, C, HTML
 
+#### Name: [Krishna Nanda](https://github.com/Krishna2610)
+- Bio: Student who loves to explore 
+- Programming Language: C++, Java, C
+
+
+
 #### Name: [Matthew Helmer](https://github.com/MatthewHelmer)
 - Bio: Computer Science student in Nova Scotia, Canada
 - Programming Languages: Python, C, Java
